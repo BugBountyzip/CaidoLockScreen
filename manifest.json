@@ -1,0 +1,20 @@
+{
+  "id": "password-lock-manager",
+  "name": "Password Lock Manager",
+  "version": "1.0.0",
+  "description": "A plugin for locking the Caido interface with a password.",
+  "author": {
+    "name": "Tur24Tur / BugBountyZip",
+    "email": "no-reply@NoBugEscapes",
+    "url": "https://github.com/BugBountyzip"
+  },
+  "plugins": [
+    {
+      "kind": "frontend",
+      "id": "password-lock-manager-frontend",
+      "name": "Password Lock Manager Frontend",
+      "entrypoint": "frontend/script.js",
+      "style": "frontend/style.css"
+    }
+  ]
+}
