@@ -1,4 +1,4 @@
-import '../frontend/style.css';
+import './style.css';
 
 const PLUGIN_PATH = "/password-lock-manager";
 let isLocked = false;
