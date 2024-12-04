@@ -1,3 +1,5 @@
+import './styles/style.css';
+
 const PLUGIN_PATH = "/password-lock-manager";
 let isLocked = false;
 let encryptedPasscode = "";
