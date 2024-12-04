@@ -1,7 +1,7 @@
 {
   "id": "password-lock-manager",
   "name": "Password Lock Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for locking the Caido interface with a password.",
   "author": {
     "name": "Tur24Tur / BugBountyZip",
